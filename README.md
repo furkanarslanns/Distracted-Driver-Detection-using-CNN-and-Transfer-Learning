@@ -1,0 +1,2 @@
+# Distracted-Driver-Detection-using-CNN-and-Transfer-Learning
+This project focuses on detecting distracted driver behaviors from in-vehicle images using a CNN-based model with transfer learning. MobileNetV2 is used to classify driver actions into four categories: normal driving, phone usage, looking away, and other distractions. The model is trained and evaluated using multiple performance metrics.
